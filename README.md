@@ -20,7 +20,7 @@ Criar o script de execução ?
 Testar a Execução ?
 
 Snowflake Data Warehouse:
-
+docker compose up airflow-init
 Criar a Conta no SnowFlake X
 Verificar a existência das tabelas X
 Obter os links de conexão e nome da conta X
